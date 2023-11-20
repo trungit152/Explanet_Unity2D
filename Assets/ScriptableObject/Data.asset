@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5829500a517a9604e90b1ac7a12887b6, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  cherries: 10000001
+  moveSpeed: 3
+  jumpForce: 400
+  time: 10
+  jumpForceLevel: 1
+  moveSpeedLevel: 1
+  timeLevel: 1
+  cost: 10
+  canShot: 0
+  canDoubleJump: 0
+  doubleJumpCost: 150
+  playerHealth: 1
+  playerHealthCost: 50
